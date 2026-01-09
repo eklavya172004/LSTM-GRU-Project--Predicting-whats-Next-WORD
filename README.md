@@ -174,25 +174,6 @@ This project demonstrates:
 - Early stopping and regularization techniques
 - Web application development with Streamlit
 
-## 📝 License
-
-This project is open source and available under the MIT License.
-
-## 👨‍💻 Author
-
-**Eklavya**
-- GitHub: [@eklavya172004](https://github.com/eklavya172004)
-- Email: eklavya@example.com
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📧 Feedback
 
 Have suggestions or found bugs? Please open an issue on GitHub!
